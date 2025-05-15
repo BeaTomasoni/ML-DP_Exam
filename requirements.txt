@@ -1,0 +1,10 @@
+numpy==2.2.5
+rapidfuzz==3.13.0
+joblib
+imbalanced-learn
+xgboost==3.0.0
+catboost
+lightgbm
+ace_tools==0.0
+prettytable==3.16.0
+scikit-learn
